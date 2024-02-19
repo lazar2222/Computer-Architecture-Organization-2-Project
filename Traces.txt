@@ -1,0 +1,5 @@
+BranchPredictionSimulator\traces\gcc-10M.trace.gz
+BranchPredictionSimulator\traces\streamcluster-10M-v2.trace.gz
+
+CacheMemorySimulator\traces\classification_phase0_core1.trace.xz
+CacheMemorySimulator\traces\classification_phase0_core2.trace.xz

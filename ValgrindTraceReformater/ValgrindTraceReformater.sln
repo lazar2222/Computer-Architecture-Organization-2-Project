@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValgrindTraceReformater", "ValgrindTraceReformater\ValgrindTraceReformater.csproj", "{CF088FDB-B06F-42F6-AE59-8DF5824BDE8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF088FDB-B06F-42F6-AE59-8DF5824BDE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF088FDB-B06F-42F6-AE59-8DF5824BDE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF088FDB-B06F-42F6-AE59-8DF5824BDE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF088FDB-B06F-42F6-AE59-8DF5824BDE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5097CB7-79A4-4387-B753-94FB8C0512B1}
+	EndGlobalSection
+EndGlobal
